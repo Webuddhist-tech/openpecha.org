@@ -35,7 +35,7 @@ const Footer = () => {
   ];
 
   const socialLinks = [
-    { name: "GitHub", icon: <Github className="h-5 w-5" />, url: "https://github.com/openpecha" },
+    { name: "GitHub", icon: <Github className="h-5 w-5" />, url: "https://github.com/webuddhist-tech" },
     { name: "Hugging Face", icon: <Heart className="h-5 w-5" />, url: "https://huggingface.co/openpecha" },
     { name: "Discord", icon: <MessageSquare className="h-5 w-5" />, url: "https://discord.gg/7GFpPFSTeA" },
     { name: "Forum", icon: <MessageCircle className="h-5 w-5" />, url: "https://forum.openpecha.org/" }

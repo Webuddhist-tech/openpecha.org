@@ -334,7 +334,7 @@ const Index = () => {
               {/* Platform Links */}
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
                 <a
-                  href="https://github.com/openpecha"
+                  href="https://github.com/webuddhist-tech"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block transition-transform hover:scale-105"

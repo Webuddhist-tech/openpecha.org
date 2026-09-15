@@ -178,7 +178,7 @@ export const DATASETS: DatasetMeta[] = [
     visibility: "public",
     labels: ["Tibetan", "Monastic", "Cleaned"],
     links: {
-      repo: "https://github.com/openpecha/garchen_rinpoche_data_10_hours",
+      repo: "https://github.com/webuddhist-tech/garchen_rinpoche_data_10_hours",
     },
   },
   {
@@ -198,7 +198,7 @@ export const DATASETS: DatasetMeta[] = [
     updated_at: "2025-07-14",
     visibility: "public",
     labels: ["Long-form", "Speaker-specific"],
-    links: { repo: "https://github.com/openpecha/garchen_rinpoche_data" },
+    links: { repo: "https://github.com/webuddhist-tech/garchen_rinpoche_data" },
   },
   {
     id: "op_garchen_benchmark",
@@ -218,7 +218,7 @@ export const DATASETS: DatasetMeta[] = [
     visibility: "public",
     labels: ["Benchmark", "Test-only"],
     links: {
-      repo: "https://github.com/openpecha/garchen_rinpoche_benchmark",
+      repo: "https://github.com/webuddhist-tech/garchen_rinpoche_benchmark",
     },
   },
   {
@@ -246,7 +246,7 @@ export const DATASETS: DatasetMeta[] = [
     visibility: "public",
     labels: ["News", "Modern Tibetan", "Large-scale"],
     links: {
-      repo: "https://github.com/openpecha/tibetan_news_corpus",
+      repo: "https://github.com/webuddhist-tech/tibetan_news_corpus",
       huggingface: "https://huggingface.co/datasets/openpecha/tibetan_news",
     },
   },
@@ -269,7 +269,7 @@ export const DATASETS: DatasetMeta[] = [
     visibility: "public",
     labels: ["Historical", "Manuscripts", "OCR"],
     links: {
-      repo: "https://github.com/openpecha/pecha_ocr_dataset",
+      repo: "https://github.com/webuddhist-tech/pecha_ocr_dataset",
       docs: "https://docs.openpecha.org/datasets/pecha-ocr",
     },
   },
@@ -291,7 +291,7 @@ export const DATASETS: DatasetMeta[] = [
     visibility: "public",
     labels: ["Multilingual", "Glossary", "Reference"],
     links: {
-      repo: "https://github.com/openpecha/buddhist_terminology",
+      repo: "https://github.com/webuddhist-tech/buddhist_terminology",
       docs: "https://docs.openpecha.org/datasets/terminology",
     },
   },
